@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="images">
+    <file>6322766.png</file>
+    <file>avatar2d.jpg</file>
+    <file>download.png</file>
+  </qresource>
+  <qresource prefix="font">
+    <file>Poppins/Poppins-Black.ttf</file>
+    <file>Poppins/Poppins-BlackItalic.ttf</file>
+    <file>Poppins/Poppins-Bold.ttf</file>
+    <file>Poppins/Poppins-BoldItalic.ttf</file>
+    <file>Poppins/Poppins-ExtraBold.ttf</file>
+    <file>Poppins/Poppins-ExtraBoldItalic.ttf</file>
+    <file>Poppins/Poppins-ExtraLight.ttf</file>
+    <file>Poppins/Poppins-ExtraLightItalic.ttf</file>
+    <file>Poppins/Poppins-Italic.ttf</file>
+    <file>Poppins/Poppins-Light.ttf</file>
+    <file>Poppins/Poppins-LightItalic.ttf</file>
+    <file>Poppins/Poppins-Medium.ttf</file>
+    <file>Poppins/Poppins-MediumItalic.ttf</file>
+    <file>Poppins/Poppins-Regular.ttf</file>
+    <file>Poppins/Poppins-SemiBold.ttf</file>
+    <file>Poppins/Poppins-SemiBoldItalic.ttf</file>
+    <file>Poppins/Poppins-Thin.ttf</file>
+    <file>Poppins/Poppins-ThinItalic.ttf</file>
+  </qresource>
+</RCC>
